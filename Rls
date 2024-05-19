@@ -1,0 +1,8 @@
+Origin: 27th5's Repo
+Label: 27th5
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: A 27th5 repo to use

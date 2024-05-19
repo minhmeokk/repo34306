@@ -1,0 +1,541 @@
+Package: com.34306.2nd
+Architecture: iphoneos-arm
+Version: 2.0-1+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.2nd_2.0-1+debug_iphoneos-arm.deb
+Size: 31430
+MD5sum: 5eba33ae1ed901e443df2dae690d20d8
+SHA1: 418864717801d750c642f36fcb9b0133812b7bc4
+SHA256: 665fd59a34453118e691902f940c36d6aba9efcc50cb232c26ee6ee3f648ea93
+SHA512: 1b0c30ac0c99733ea5c4004e5c8858d8bc1917df6b21ac3135872f91d7c59874f247de7ef4d3bd8c45ef6693b6df54ca23df7d90675a0581264fb6f034687103
+Description: Add second line to your time on statusbar
+Name: 2nd
+Author: 34306
+
+Package: com.34306.2nd
+Architecture: iphoneos-arm64
+Version: 2.0-3+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 312
+Depends: oldabi, mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.2nd_2.0-3+debug_iphoneos-arm64.deb
+Size: 31444
+MD5sum: b1e562404de518ea640bc8b53a2b598f
+SHA1: e53d2750a62120450c6fb7f6e80e5f744950bc93
+SHA256: 42ec9a0c5dbe939224efb6c94d94fde5af463ea1c102196821b70404ccf25e51
+SHA512: 2571992da4efa533596ca736575372790f630fcb6effdd37e38f1d3dbf3e3fa821357dffe81d0a76e91f5cc45f668bec921af313b311521c8ea8512880879985
+Description: Add second line to your time on statusbar
+Name: 2nd
+Author: 34306
+
+Package: com.34306.batfill
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 284
+Depends: mobilesubstrate, ws.hbang.common (>= 1.16)
+Filename: ./debs/com.34306.batfill_2.0_iphoneos-arm.deb
+Size: 13686
+MD5sum: b676ff99a4f6c82a3c3bed119d86bb27
+SHA1: 4051ba5a985674bac7f323c0cf88871f0f65f663
+SHA256: a16f1ed120d06a15cd0c974f00bc2e5d1f37147310f9164aa6c7576e58069550
+SHA512: 050b314c84e4d9575ee812525f5813db5040ccd6b6db8bcc5090cf94e3b6e4bef1fda0d0b6041b49bbce7f6d7158dc278c8d2b6bc665074298d2749f91ac99dd
+Description: iOS 16 style for iOS 11-15. Please setting your own color in Settings!
+Name: BatFill
+Author: 34306, fahlnbg
+
+Package: com.34306.clearbatper
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatper_2.1_iphoneos-arm.deb
+Size: 6512
+MD5sum: f715577e6aabcad7a014b1f33163b110
+SHA1: 5003087807b6995c3affe416657b67d4ca95ec42
+SHA256: c589a806ddd7ebd7803bc2a760265e46c635b46058b8abbbeae621c64f2cce59
+SHA512: d086d9fc4c628b8f770ca2ef7037551a0e1fb86b0c2d3e6af4a746743584c5f350b02bd2e34e8390b1d1566dec242c5669074309c264ff1ede23708f832a58ad
+Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer
+Author: 34306
+
+Package: com.34306.clearbatper
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatper_2.1_iphoneos-arm64e.deb
+Size: 5008
+MD5sum: 8466469ba952c6222c16bc2667ec4c7e
+SHA1: c624f695f019ae1df301a4215a24bb2ba83593a9
+SHA256: 00dd67112626d319a6148cc7bf0624c73a7dd63e95dc9513e939b4cfd98fa3b6
+SHA512: af23ddef6fe59a079583107d8d936b33bbdac1e5affc8532278f6ef9ebfece5d3d1345eca14e62d46dfdd7098a73ae53e666c2560e8d35628a043df0ba596ba5
+Description: Vi: Hiển thị % pin nhưng không bị nền của pin/trong suốt. Khi sạc màu vàng, khi bật LPM màu xanh dương, khi pin yếu màu đỏ và bình thường màu trắng.\nEng: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer
+Author: 34306
+
+Package: com.34306.clearbatperrl
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.clearbatperrl_2.2_iphoneos-arm64.deb
+Size: 6514
+MD5sum: 1caa7b561888747379949a5033443a8a
+SHA1: ef8dbf31efe5c28f61218e05cda6f44ca9c4abce
+SHA256: 8c8ac6400cabddcdb677bed2a312fc86eaa838b66fd906a36bd05c00c5d87bb8
+SHA512: f2229eabf44636d9d0b998d1060435e5fda6be434ff9fc817133d78faf2090d91a7151aa32740e9e46ae3960b5ff2ccf38ffe98c89770170fbd8248466f29753
+Description: Display battery percent without blur battery background/clear background.
+Name: ClearBatPer rootless
+Author: 34306
+
+Package: com.34306.dockpad
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.dockpad_1.0_iphoneos-arm.deb
+Size: 4048
+MD5sum: f280107210e079433717fde163b68a6b
+SHA1: 2e031d9d37907a4c02f284ecc590a17727bf217f
+SHA256: 058697593f76e6c0f70c178a22fc534226a97dfd3168ffd65eb785c2cbd148b2
+SHA512: 2415fd1df76be0b96b02e2c54d5e3fee584a5d03fe26158a1bff4cbf955b1a86284607cb38f4323650b992ef795104889d1110e7c3dd37cd0586b48a75fca7ac
+Description: A simple tweak that turn your dock into iPadOS dock!
+Name: DockPad
+Author: 34306
+
+Package: com.34306.dockpadrl
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.dockpadrl_1.1_iphoneos-arm64.deb
+Size: 3810
+MD5sum: 88cd5027d05659b89efc5bf2c4c49e10
+SHA1: 4746c5f419ee09ea7dddcb067811b884e547a3ba
+SHA256: 99970a2238a4e3290312534f125559fe5d23949e686539036ca0e52bfc386847
+SHA512: bd54ac3d8e4a1d470d7a3ca3c6bc258247982f4329e195812773100c4f760020960d1a7146180a1a3142fda556a75dc209466fcfa62c02fbe3817cb55873e819
+Description: A simple tweak that turn your dock into iPadOS dock on iOS 15!
+Name: DockPad rootless
+Author: 34306
+
+Package: com.34306.faced
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.faced_1.0_iphoneos-arm.deb
+Size: 4420
+MD5sum: 2e52be68c05ec04678a1229ca7e40a8f
+SHA1: 06ee3904e2e7f7d94974e3c314ded003b858bc48
+SHA256: 179f3ddeb22f9e83cbdb80bf5363ca506e1abcbfac128f09b1f8adba769fc107
+SHA512: 2a93dd512c609ef43f272a7b3ed5cb1e9803dedd2b80f1dff60fbf4b0d95b20cdfce5ac848b0f5c20d6f97b1ea7f71f6c5f915a5e4bf36db558039ea429aa00b
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
+
+Package: com.34306.faced
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.faced_2.0_iphoneos-arm64e.deb
+Size: 4550
+MD5sum: 7d3ad72ab8a79e7fabca4c810cd5d560
+SHA1: 4172fadcc45591672c223044d5f73ece7a10fde9
+SHA256: abad37031309e3da27a2a79a128e212bc65471e1d2a53270b6d107ee996d502a
+SHA512: 34d16bcc59dc9b7a095b599dfc224f59cccc77bbb939d679791928c35f9b5cdf13ac8412b75f9908fbad61292d6fae93b5e091782a07d31c04d386692ba8efa1
+Description: A simple tweak that disable ads on facebook.
+Name: Faced
+Author: 34306
+
+Package: com.34306.facedrl
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.facedrl_1.0_iphoneos-arm64.deb
+Size: 4484
+MD5sum: 582959d20cdb716258ec92c1a3405367
+SHA1: 4fcc0271d68c4505bf1f56e0d9438794654cca37
+SHA256: 28071ad07c6dab06d1fe993589221736d6ad2e8987a017342d6f18b438918253
+SHA512: 2a0a490fa6a00650812adf76c8894dd9c06003a632e7a7607b51b800a5ec5a3bc240fee93124b211f1d2ff029efacf100bd442ac65f4912945ffd728107b5c1a
+Description: A simple tweak that disable ads on facebook. Support rootless
+Name: Faced rootless
+Author: 34306
+
+Package: com.34306.fakestoragerl
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.fakestoragerl_1.0_iphoneos-arm64.deb
+Size: 4956
+MD5sum: 90c941c9f08f046d71ef69757395ca02
+SHA1: 194d4d4dc6478cfc990c6248601dea19c3f2e46b
+SHA256: 5f7ee50493bc6461e553b555257da8a99ee9927fd1148e4fe69dacb8849924f7
+SHA512: 23fe90b7b8fe59202efda1a75c3277ccbf032d065b5750c96440afea3ea530b07239742ffb9172bc0e27d21fd508e67ca9373bbc5161c6d848293bf75e1d5d73
+Description: 1TB?
+Name: Fake storage rootless
+Author: 34306
+
+Package: com.34306.messed
+Architecture: iphoneos-arm
+Version: 3.0
+Maintainer: Little 34306
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm.deb
+Size: 5956
+MD5sum: bb8f7d99f770ad530689131987c88dc4
+SHA1: dc88f5b058402f0d7831d254ad342eb60bda693e
+SHA256: 43be4749a8bfbc283d82bdcd466e49c7363467acc12646eee89d1f8c841fab2a
+SHA512: 06570dcaa42dee3f8e30f1a612693ed2d4cfbc6c063f11226e9f654c34dbdd27372bd53757ded9f5369f6511db418812ad51913ca9b688584fc420314956265e
+Description: Messed
+Name: Messed
+Author: 34306
+
+Package: com.34306.messed
+Architecture: iphoneos-arm64
+Version: 3.0
+Maintainer: Little 34306
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm64.deb
+Size: 6000
+MD5sum: c33c3b2b50d49141d578331f3d0fca1f
+SHA1: 85b0416af2700ba44f3762ff9264ff02e2dec19b
+SHA256: 7b9178df4744ffb74c30d49106af2848951477d8718b14bad0d0966f229affe7
+SHA512: 0b706ace2a4d20bd3453ca94dd77e5454d2339bb5d3c6542898da3893fd15787441956df14252e68d90c7a769fef11272b72f5c4931f273c96cac4fdf6751fb6
+Description: Messed
+Name: Messed
+Author: 34306
+
+Package: com.34306.messed
+Architecture: iphoneos-arm64e
+Version: 3.0
+Maintainer: Little 34306
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.messed_3.0_iphoneos-arm64e.deb
+Size: 5954
+MD5sum: 2a4bfc8eecc2cb7c7ff4a283cfa35708
+SHA1: 5bb4a75c8b5d0329ade441dfcd1b3faba074b428
+SHA256: cd4ff8b585df89a3bf82f29715b843188b10561888ded030c0a109c1a8469a73
+SHA512: 897ce928b71bbd171766c8d46a6aef6968cc1e2a786ac355758a574eb9ac62ce92c37899a347de08b69bb04d1cb93c0fd83217ec1ee0243e5030d374993c6c41
+Description: Messed
+Name: Messed
+Author: 34306
+
+Package: com.34306.mineland
+Architecture: iphoneos-arm64
+Version: 2.0-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64.deb
+Size: 43446
+MD5sum: 3926db983c726f7f3504b903399f2496
+SHA1: 2cc0cb705c5dff32b5e90ad9bcfe95cca4fb77fc
+SHA256: d3a3f5f8c54b359de2ae916287c3f006f95699637127b0eca1d238db34fd9458
+SHA512: f014e6ca9833295c8fb66d0053d216dacea80e4c9bd212aca8bd2834254b72dd916241fd9deb24224712ae698a60a34e8c8f3c93561049af114519e11d5120ab
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.mineland
+Architecture: iphoneos-arm64e
+Version: 2.0-7+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64e.deb
+Size: 43418
+MD5sum: e664ec4c8ee99d334786aeba46f7ff82
+SHA1: 885e19b84187169ef4d9b60777e9647eff8b33ca
+SHA256: 81fe82734f39439003964dc6f5435fb93bfec2f134dd26beb91fd0f9b5d3a37c
+SHA512: f86080d86acb8d87d4b2dbee6597d8b07e2fbbc9c26f5ef061505eb064a44ac5ac9b0fde8fd21131313f69eaacc44e67c3f9638bd3c0e77b3be89f5e556c171c
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.networkspeedrl
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.networkspeedrl_1.0_iphoneos-arm64.deb
+Size: 13678
+MD5sum: f0f7f39de894581fcab7063958a536c0
+SHA1: 3af9f8afff86f9b60b21d777228bdcbc4e537f30
+SHA256: 961ce021b10c037c73b92a62223e5825c55a7207798f963ceb360a198b093a4c
+SHA512: f155fbf0a5011e2955716dbf583ba50f61ef61c255a9872171684027e0b4a08a2e403d5dac7a2e866715394965b265d3f8a351f9d0578dd5947313d4b055a630
+Description: A simple tweak that show network speed. Support notched iPhone and also rootless jailbreak.
+Name: NetworkSpeed rootless
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm.deb
+Size: 3060
+MD5sum: 8e61b9f09d41b550c07d9655eb6a84dd
+SHA1: f23f3e12acabeaad0d515bdcf7bb4b549e042b91
+SHA256: b4004f543310656299cfb80ed4ca5ae7cd33cd8dec03592092b4643c47ac3f4a
+SHA512: 9db9244fa00b581abb75f13872d406913a16cc99c98c0c8c5ab6abb70a80f74dec85840f2835c951e75fdce4d8e2001200dce3a5f60d85856258f9af2f509482
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Size: 3094
+MD5sum: 9f36730b58f43f060d082b03b6f3ce32
+SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
+SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
+SHA512: f767ae9ab6542f97a4c2f14998b27d816d406b7b2e1b11feec1a8ec6f38b968b43f06a18acab4a33156c8c4716f68dd7d99a451c2fa122de36c5c1e62b785c99
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.replaced
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 3052
+MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
+SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
+SHA256: 622ef01822fad1e6f4ab57cf99045aaff607e26fb8413165d8437644bb0192d0
+SHA512: 61a96a39fe0aae6f1944bb509f30508acb51d8e94d071398a34ee2e18b22f9cffb52c578271098ca7416b9b823f66537c20926cc677fbc31ce67c27750aa2dda
+Description: Remove the notification that the P
+Name: replaced
+Author: 34306
+
+Package: com.34306.swiped
+Architecture: iphoneos-arm64
+Version: 1.0-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 324
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.swiped_1.0-6+debug_iphoneos-arm64.deb
+Size: 12472
+MD5sum: 27b5e8fb275135a5fd98ea53d8567a1d
+SHA1: abdb30edd953709b1c973338e15e957ae96f0545
+SHA256: c96c80fc70bad8519c07351f28e64b25f97b1a9f26df384bf7be6685a959a704
+SHA512: 3d2a705bff881ede1ade275230b9f54f798a56f011893fd9a069841918c696e72e031244b2dc80805810d124ae98bd06ab31a6cf2f892e39b4a04c8cbc8ab959
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
+Package: com.34306.swiped
+Architecture: iphoneos-arm64
+Version: 1.0-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 328
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.swiped_1.0-8+debug_iphoneos-arm64.deb
+Size: 12896
+MD5sum: b2197037956bb9102814226af387b01a
+SHA1: bb4eb24360e1c7d7d01adbe0a607fbcd8eac483b
+SHA256: 2411e75317ec4c4487ad0a2c46661c4e6c2f310bcce4a2e61706cd183c925e39
+SHA512: 267fa49be157fb0e5df8f544bcfd7f34a2819c8131041b5c0935377de2f26d12929e26b48e6c08911719ba22b5ff0aefe006a728b3a069f74c64d5040b24a993
+Description: Swiped!
+Name: Swiped
+Author: 34306
+
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm
+Version: 1.1-5+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_rootful_iphoneos-arm.deb
+Size: 4630
+MD5sum: a745925463fcc13712fa1add9911cc11
+SHA1: 70b2aa1573a2faf915368641edf4e33e343599c3
+SHA256: 9dddafe6d9a550a5987a14fab449642360b0f7673ef1e5fe8868cd92de797c07
+SHA512: 9356cc1f9f84236947ff549fa2b903e3a9b42d912769411c314eb9baa29cd1811f7cb9d425cf44c7b66953db807b7dc9bb1d2cafc9dfa35a83f056fc925eb820
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm64e
+Version: 1.1-6+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_roothide_iphoneos-arm64e.deb
+Size: 4628
+MD5sum: c25f9f5930dce6fb14436bbe0171848c
+SHA1: 2b2cf68faabb872a74032406473d69087b8f2d34
+SHA256: 71f1b6d56d228ea2310101a7f0aca2229ec0c7288416554bc7fc2ebfd00fad29
+SHA512: 976525b55a1e2ba81f36541eacd34a26758a2f7e07e530b51d1bc1e70cb09a1c33d3bfc523c0ad2ff6bf435079ddab356c20ba38b9a00a40588248a9483c7a4d
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.upsidedowned
+Architecture: iphoneos-arm64
+Version: 1.1-4+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.34306.upsidedowned_1.1_rootless_iphoneos-arm64.deb
+Size: 4668
+MD5sum: 4579125d06dd4fa5297ad32768207353
+SHA1: 3717e26b9fe7fba262999848f551d559e952df99
+SHA256: 004db87a9e610d5834b0ca57847ca4f19641347735b0c9f84baa417931cac123
+SHA512: 2e75a3a1d008d33e08c88013408ea29c4d5084252330377f637527d7c74cac95fd612e2c0272a81b37c35b30ba12dfa33f65019b5fd2ab8e670f0710df252ed4
+Description: Rotate left, right, up side down your iPhone. I take the code from TrollPad by @TranKha50277352
+Name: upsidedowned
+Author: 34306, KhanhDuyTran
+
+Package: com.34306.watched
+Architecture: iphoneos-arm
+Version: 1.1-8+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootful_iphoneos-arm.deb
+Size: 5778
+MD5sum: d554b349eaec33e19ce3aeb1ab0a2db5
+SHA1: 5dc3aa40ab19a5436c38f85df27f93a6c2ef073c
+SHA256: ea9920a93e38b56c5c87acb83d839cd5f4538c412472c7dc1ad0bfff674db356
+SHA512: cbb31d9847ab4f9c0bff1b6fe341ee11f4b9da896f3fe1f3bc5c428c7272d2b867ee9740ae6407dd0e0584ca95c89ba62b27136d258f4d0ee0f04b18b8b1036b
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64e
+Version: 1.1-10+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
+Size: 5792
+MD5sum: b133709066391ab7b0cd97ec759d74d2
+SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
+SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
+SHA512: c76e485b21ce5cbdc1126e82db168037923ae84ab46af9ef436d3183b8b324216ff34181f42325b7ce142532687ab42edb34b039b1eb441244fce7b58f75762e
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
+Package: com.34306.watched
+Architecture: iphoneos-arm64
+Version: 1.1-9+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootless_iphoneos-arm64.deb
+Size: 5834
+MD5sum: 63ef9d32a9811580d64abb480304248f
+SHA1: 6d73f4130b8f468aeea9f950cfb5dfdc42c61bb5
+SHA256: 1345c8a8bb6f61bd8928a9eededaf2de4329eb759598c4381838ecbff3c6c6cd
+SHA512: c248c801edf769c060c476fe0d9ffe2befe636092188a5bb3fff85937750493a46f8f3f9e2de5ed55aa8756e10fe9a1d4bb18a12f6321bb3d9851018d450657d
+Description: Paired your Apple Watch on new watchOS with older iOS
+Name: watched
+Author: 34306
+
+Package: com.34306.youtubedrl
+Architecture: iphoneos-arm64e
+Version: 1.0-2+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.34306.youtubedrl_1.0-2+debug_iphoneos-arm64e.deb
+Size: 4042
+MD5sum: 7ffe126cba11702e0815ce11e26fbf01
+SHA1: d374fe6639d99457e2355388086c175f43b147e3
+SHA256: b81de70992f300552dc667bde68885609481fb0ceab9699538e62d298921449e
+SHA512: 7f45c93b3c427cfd3bd1e84d7ed13d061240034604aed64ca527d5bf0460ee1beadd9515ec47884f87a4bef8f60486d8147397eca875763255eea677d02b072c
+Description: You'll never seen Ads in Never gonna give you up anymore!
+Name: Youtubed rootless
+Author: 34306
+
+Package: me.34306.icontime
+Architecture: iphoneos-arm64
+Version: 1.0-12
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/me.34306.icontime_1.0-12_iphoneos-arm64.deb
+Size: 29384
+MD5sum: b511be61f28cbfed3fb04930106510a8
+SHA1: 4cbab453f1cd67daab652b18ed527fcf6e65331d
+SHA256: 9791448fb98525f2d71ab1b263f7e8c0079448b5361a84237f6a60e19b329b32
+SHA512: f0d2ed8fcf2e45ac98e540182419a26b89c9a8c24252e4adc8c2145f87aa747f445ad643d883e13ddc72af28107eea0bb1e38580dfa6dd42bf6b049a78ac5b36
+Description: Display the time as icon
+Name: iconTime
+Author: 34306
+
+Package: me.34306.icontime
+Architecture: iphoneos-arm
+Version: 1.0-13
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 356
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0)
+Filename: ./debs/me.34306.icontime_1.0-13_iphoneos-arm.deb
+Size: 29332
+MD5sum: 6f44f1a24fa787051e02e86e8f1f256e
+SHA1: 303d71cfb546716c985a16dd30e0fcc15d90af44
+SHA256: 219524a394acf169c84892899a886d9db8ea1da4a7ff3cfada0b0047108c6898
+SHA512: 48b62d15c042878eaade1ba59b8372e05f021098dd8d8d142eaf715f58339743f8c11eb5b6b6fb1664f0e46d926fe32cc8b9544563db7f413aec10a114e6da01
+Description: Display the time as icon
+Name: iconTime
+Author: 34306
+
